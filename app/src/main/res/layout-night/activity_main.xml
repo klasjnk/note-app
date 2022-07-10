@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#1A202B"
+
+    tools:context=".activities.MainActivity">
+    <androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        tools:context=".activities.SettingActivity"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:fitsSystemWindows="true"
+        android:layout_height="match_parent">
+        <com.google.android.material.appbar.AppBarLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/appBarLayout"
+
+            android:fitsSystemWindows="true"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark">
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar"
+                style="@style/MyToolbarStyle"
+                app:menu="@menu/menu_main"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                app:titleTextColor="@android:color/white"
+                app:layout_scrollFlags="scroll|enterAlways" />
+        </com.google.android.material.appbar.AppBarLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior"
+            app:layout_anchorGravity="bottom">
+            <HorizontalScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scrollbars="none">
+                <com.google.android.material.chip.ChipGroup
+                    android:layout_width="match_parent"
+                    app:singleSelection="true"
+                    app:singleLine="true"
+                    android:layout_height="wrap_content">
+                    <com.google.android.material.chip.Chip
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        style="@style/customChipStyle"
+                        android:id="@+id/recently"
+                        android:text="Gần đây"/>
+                    <com.google.android.material.chip.Chip
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/title"
+                        style="@style/customChipStyle"
+                        android:text="Theo tên"/>
+                    <com.google.android.material.chip.Chip
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/tag_now"
+                        style="@style/customChipStyle"
+                        android:text="Khoảnh khắc"/>
+                    <com.google.android.material.chip.Chip
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        style="@style/customChipStyle"
+                        android:id="@+id/older"
+                        android:text="Cũ hơn"/>
+                    <com.google.android.material.chip.Chip
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        style="@style/customChipStyle"
+                        android:id="@+id/tag_edu"
+                        android:text="Học tập"/>
+                    <com.google.android.material.chip.Chip
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        style="@style/customChipStyle"
+                        android:id="@+id/tag_travel"
+                        android:text="Du lịch"/>
+                    <com.google.android.material.chip.Chip
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        style="@style/customChipStyle"
+                        android:id="@+id/tag_todo"
+                        android:text="Todo list"/>
+                    <com.google.android.material.chip.Chip
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        style="@style/customChipStyle"
+                        android:id="@+id/tag_schedule"
+                        android:text="Lịch"/>
+                    <com.google.android.material.chip.Chip
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        style="@style/customChipStyle"
+                        android:id="@+id/tag_normal"
+                        android:text="Hằng ngày"/>
+
+                </com.google.android.material.chip.ChipGroup>
+            </HorizontalScrollView>
+
+
+            <ImageView
+                android:layout_marginTop="150dp"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:visibility="gone"
+                android:src="@drawable/note"
+                android:layout_gravity="center_horizontal|center_vertical"
+                android:id="@+id/icon"/>
+            <TextView
+                android:visibility="gone"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/empty"
+
+                android:fontFamily="@font/ubuntu_regular"
+                android:textSize="20sp"
+                android:textAlignment="center"
+                android:text="Opps! Bạn chưa có nhật kí nào. Bạn có thể tạo ngay bây giờ."/>
+            <Button
+                android:id="@+id/add_new"
+                android:fontFamily="@font/ubuntu_regular"
+                android:visibility="gone"
+                android:layout_marginTop="30dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/background_add_new"
+                android:text="+ Nhật ký"/>
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/notesRecyclerView"
+                android:padding="5dp"
+                android:layoutAnimation="@anim/layout_animation_fall_down"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" />
+
+
+        </LinearLayout>
+
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/capture"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:focusable="true"
+        android:src="@drawable/ic_camera"
+        android:tint="@color/white"
+        android:visibility="invisible"
+        app:backgroundTint="#82BABC"
+        app:layout_constraintBottom_toTopOf="@+id/imageProfile"
+        app:layout_constraintEnd_toEndOf="@+id/imageProfile"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:fabSize="mini"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.98" />
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/imageProfile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:focusable="true"
+        android:src="@drawable/ic_calendar"
+        android:tint="@color/white"
+        android:visibility="invisible"
+        app:backgroundTint="#2979FF"
+        app:layout_constraintBottom_toTopOf="@+id/imageAddNoteMain"
+        app:layout_constraintEnd_toEndOf="@+id/imageAddNoteMain"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:fabSize="mini"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.98" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/imageAddNoteMain"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:fabSize="mini"
+        android:clickable="true"
+        android:focusable="true"
+        android:src="@drawable/pen"
+        android:tint="@color/white"
+        android:visibility="invisible"
+        app:backgroundTint="@color/colorAccent"
+        app:layout_constraintBottom_toTopOf="@+id/imageSetting"
+        app:layout_constraintEnd_toEndOf="@+id/imageSetting"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.98" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/imageSetting"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/setting"
+        android:clickable="true"
+       app:fabSize="mini"
+        android:visibility="invisible"
+        android:focusable="true"
+        android:tint="@color/white"
+        app:backgroundTint="#6B6C71"
+        app:layout_constraintBottom_toTopOf="@+id/FloatingMenu"
+        app:layout_constraintEnd_toEndOf="@+id/FloatingMenu"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.98" />
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/FloatingMenu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_add"
+        android:tint="@color/white"
+        android:clickable="true"
+        android:focusable="true"
+        app:backgroundTint="#706FC8"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.954"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.961" />
+
+
+    <!--    <ImageView-->
+    <!--        android:layout_width="@dimen/_40sdp"-->
+    <!--        android:layout_height="@dimen/_40sdp"-->
+    <!--        android:id="@+id/imageAddNoteMain"-->
+    <!--        android:layout_marginEnd="@dimen/_30sdp"-->
+    <!--        android:background="@drawable/background_add_button"-->
+    <!--        android:contentDescription="@string/app_name"-->
+    <!--        android:padding="@dimen/_5sdp"-->
+    <!--        android:src="@drawable/ic_add"-->
+
+    <!--        app:layout_constraintBottom_toTopOf="@id/layoutQuickActions"-->
+    <!--        app:layout_constraintTop_toTopOf="@id/layoutQuickActions"-->
+    <!--        app:layout_constraintEnd_toEndOf="parent"/>-->
+
+</androidx.constraintlayout.widget.ConstraintLayout>

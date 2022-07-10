@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/voiceToText"
+        app:showAsAction="always"
+        android:iconTint="@color/colorNoteColor4"
+        android:icon="@drawable/ic_mic"
+        android:title="" />
+    <item
+        android:id="@+id/imageSave"
+        app:showAsAction="always"
+        android:iconTint="@color/colorDelete"
+        android:icon="@drawable/ic_done"
+        android:title="" />
+    <item android:title="Lịch hẹn"
+        android:icon="@drawable/ic_fingerprint"
+        android:id="@+id/notification"/>
+    <item android:title="Tắt lịch hẹn"
+        android:icon="@drawable/ic_fingerprint"
+        android:id="@+id/disableNotification"/>
+
+</menu>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item android:title="Chỉnh sửa"
+        android:icon="@drawable/ic_baseline_create_24"
+        android:id="@+id/mnuEdit"/>
+    <item android:title="Xóa"
+        android:icon="@drawable/ic_delete"
+        android:id="@+id/mnuDelete"/>
+    <item android:title="Chia sẻ"
+        android:icon="@drawable/ic_share"
+        >
+        <menu>
+            <item android:title="Chia sẻ văn bản"
+                android:icon="@drawable/ic_share"
+                android:id="@+id/mnuShare"/>
+            <item android:title="Chia sẻ pdf"
+                android:icon="@drawable/ic_share"
+                android:id="@+id/mnuPdf"/>
+        </menu>
+    </item>
+    <item android:title="Xuất thành pdf"
+        android:icon="@drawable/ic_share"
+        android:id="@+id/mnuExport_pdf"/>
+</menu>
+

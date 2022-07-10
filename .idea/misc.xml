@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/APK_cuoiki/app/Notes_App/app/src/main/res/layout-night/layout_confirm_restore.xml" value="0.22239583333333332" />
+        <entry key="..\:/APK_cuoiki/app/Notes_App/app/src/main/res/layout/activity_setting.xml" value="0.264" />
+        <entry key="..\:/APK_cuoiki/app/Notes_App/app/src/main/res/layout/layout_confirm_backup.xml" value="0.264" />
+        <entry key="..\:/APK_cuoiki/app/Notes_App/app/src/main/res/layout/layout_confirm_logout.xml" value="0.15208333333333332" />
+        <entry key="..\:/APK_cuoiki/app/Notes_App/app/src/main/res/layout/layout_confirm_restore.xml" value="0.4" />
+        <entry key="..\:/APK_cuoiki/app/Notes_App/app/src/main/res/layout/layout_delete_note.xml" value="0.15416666666666667" />
+        <entry key="..\:/APK_cuoiki/app/Notes_App/app/src/main/res/layout/layout_success_restore.xml" value="0.264" />
+        <entry key="..\:/Final_new/Notes_App/app/src/main/res/drawable/background_button_google.xml" value="0.26614583333333336" />
+        <entry key="..\:/Final_new/Notes_App/app/src/main/res/drawable/bottom_sheet_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/Final_new/Notes_App/app/src/main/res/drawable/button_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/Final_new/Notes_App/app/src/main/res/drawable/ic_done.xml" value="0.26614583333333336" />
+        <entry key="..\:/Final_new/Notes_App/app/src/main/res/drawable/ic_fingerprint.xml" value="0.1287037037037037" />
+        <entry key="..\:/Final_new/Notes_App/app/src/main/res/drawable/ic_mic.xml" value="0.26614583333333336" />
+        <entry key="..\:/Final_new/Notes_App/app/src/main/res/drawable/splash_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/Final_new/Notes_App/app/src/main/res/layout/activity_create_note.xml" value="0.1" />
+        <entry key="..\:/Final_new/Notes_App/app/src/main/res/layout/activity_fingerprint.xml" value="0.21388888888888888" />
+        <entry key="..\:/Final_new/Notes_App/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Final_new/Notes_App/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Final_new/Notes_App/app/src/main/res/layout/activity_setting.xml" value="0.4" />
+        <entry key="..\:/Final_new/Notes_App/app/src/main/res/layout/activity_splash.xml" value="0.15092592592592594" />
+        <entry key="..\:/Final_new/Notes_App/app/src/main/res/layout/fingerprint_authentication.xml" value="0.2" />
+        <entry key="..\:/Final_new/Notes_App/app/src/main/res/layout/layout_bottom_sheet.xml" value="0.136" />
+        <entry key="..\:/Final_new/Notes_App/app/src/main/res/layout/layout_delete_note.xml" value="0.140625" />
+        <entry key="..\:/Final_new/Notes_App/app/src/main/res/layout/layout_notification.xml" value="0.264" />
+        <entry key="..\:/Final_new/Notes_App/app/src/main/res/layout/splash_background.xml" value="0.25" />
+        <entry key="..\:/Final_new/Notes_App/app/src/main/res/menu/context_menu.xml" value="0.25" />
+        <entry key="..\:/Final_new/Notes_App/app/src/main/res/menu/menu.xml" value="0.4" />
+        <entry key="..\:/New folder (2)/Notes_App/app/src/main/res/drawable/button_background.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (2)/Notes_App/app/src/main/res/layout/activity_fingerprint.xml" value="0.25" />
+        <entry key="..\:/New folder (2)/Notes_App/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/New folder (2)/Notes_App/app/src/main/res/layout/activity_password.xml" value="0.25" />
+        <entry key="..\:/New folder (2)/Notes_App/app/src/main/res/layout/activity_password_protected.xml" value="0.152" />
+        <entry key="..\:/New folder (2)/Notes_App/app/src/main/res/layout/activity_security_private_account.xml" value="0.25" />
+        <entry key="..\:/New folder (2)/Notes_App/app/src/main/res/layout/activity_setting.xml" value="0.25" />
+        <entry key="..\:/New folder (2)/Notes_App/app/src/main/res/layout/item_container_note.xml" value="0.25" />
+        <entry key="..\:/New folder (2)/Notes_App/app/src/main/res/layout/layout_check_password.xml" value="0.25" />
+        <entry key="..\:/New folder (2)/Notes_App/app/src/main/res/layout/layout_comfirm_delete_password.xml" value="0.25" />
+        <entry key="..\:/New folder (2)/Notes_App/app/src/main/res/layout/layout_security_fingerprint.xml" value="0.25" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/background_add_button.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/background_avatar.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/background_button_facebook.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/background_delete.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/background_dialog.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/background_done_button.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/background_miscellaneous.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/background_note.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/background_note_color_1.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/background_note_color_2.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/background_quickaction.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/background_search.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/background_subtitle_indicator.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/bottom_sheet_background.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/button_background.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/ic__backup.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/ic__restore.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/ic__right_icon.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/ic_add.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/ic_add_outline.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/ic_arrow_up.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/ic_back.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/ic_back_btn.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/ic_baseline_account_circle_24.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/ic_baseline_create_24.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/ic_baseline_language_24.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/ic_baseline_logout.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/ic_baseline_security_24.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/ic_camera.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/ic_color.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/ic_delete.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/ic_done.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/ic_favorite.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/ic_fingerprint.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/ic_image.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/ic_launcher_background.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/ic_mic.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/ic_night_mode.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/ic_notification.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/ic_notifications_off.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/ic_notifications_on.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/ic_phone_call.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/ic_search.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/ic_setting.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/ic_share.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/ic_star_off.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/ic_star_on.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/ic_switch_account.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/ic_text_size.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/ic_user.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/ic_web_link.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/round_back_secondary_100.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/round_back_secondary_100_nightmode.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/rounded_back_night_mode.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/rounded_back_notifications.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/rounded_back_private_account.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/splash_background.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable-night/title_background.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/background_add_button.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/background_avatar.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/background_button_facebook.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/background_button_google.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/background_button_twitter.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/background_delete.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/background_dialog.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/background_done_button.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/background_miscellaneous.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/background_note.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/background_note_color_1.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/background_note_color_2.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/background_quickaction.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/background_search.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/background_subtitle_indicator.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/bottom_sheet_background.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/button_background.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic__backup.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic__restore.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic__right_icon.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic_add.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic_add_outline.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic_arrow_up.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic_back.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic_back_btn.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic_baseline_create_24.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic_baseline_language_24.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic_baseline_logout.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic_baseline_security_24.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic_camera.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic_color.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic_delete.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic_done.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic_favorite.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic_fingerprint.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic_image.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic_mic.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic_night_mode.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic_notification.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic_notifications_off.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic_notifications_on.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic_phone_call.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic_pin.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic_search.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic_setting.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic_share.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic_star_off.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic_star_on.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic_switch_account.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic_text_size.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic_user.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/ic_web_link.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/round_back_secondary_100.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/round_back_secondary_100_nightmode.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/rounded_back_night_mode.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/rounded_back_notifications.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/rounded_back_private_account.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/rounded_back_white_10_20.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/splash_background.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/drawable/title_background.xml" value="0.26205128205128203" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/layout-night/activity_create_note.xml" value="0.25" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/layout-night/activity_login.xml" value="0.25" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/layout-night/activity_main.xml" value="0.25" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/layout-night/activity_security_private_account.xml" value="0.25" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/layout-night/activity_splash.xml" value="0.25" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/layout-night/fingerprint_authentication.xml" value="0.25" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/layout-night/item_container_note.xml" value="0.25" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/layout-night/layout_bottom_sheet.xml" value="0.25" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/layout-night/layout_check_password.xml" value="0.25" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/layout-night/layout_confirm_backup.xml" value="0.25" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/layout-night/layout_confirm_logout.xml" value="0.25" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/layout-night/layout_miscellaneous.xml" value="0.25" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/layout-night/layout_notification.xml" value="0.25" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/layout-night/tesst.xml" value="0.25" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/layout/activity_create_note.xml" value="0.23981481481481481" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/layout/activity_password_protected.xml" value="0.25" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/layout/activity_security_private_account.xml" value="0.25" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/layout/activity_setting.xml" value="0.264" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/layout/fingerprint_authentication.xml" value="0.25" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/layout/item_container_note.xml" value="0.25" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/layout/layout_add_url.xml" value="0.25" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/layout/layout_bottom_sheet.xml" value="0.25" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/layout/layout_check_password.xml" value="0.25" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/layout/layout_confirm_backup.xml" value="0.25" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/layout/layout_confirm_logout.xml" value="0.25" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/layout/layout_confirm_restore.xml" value="0.25" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/layout/layout_delete_note.xml" value="0.25" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/layout/layout_miscellaneous.xml" value="0.25" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/layout/layout_notification.xml" value="0.25" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/layout/layout_security_fingerprint.xml" value="0.25" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/menu/context_menu.xml" value="0.1" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/New folder (3)/Notes_App/app/src/main/res/menu/menu_main.xml" value="0.25" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/drawable-night/background_miscellaneous.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/drawable-night/bottom_sheet_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/drawable-night/ic_album.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/drawable-night/ic_notification.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/drawable-night/ic_search.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/drawable/background_note_color_1.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/drawable/bottom_sheet_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/drawable/ic_add.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/drawable/ic_album.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/drawable/ic_area_chart.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/drawable/ic_close.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/drawable/ic_notification.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/drawable/ic_search.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/layout-night/activity_create_note.xml" value="0.4" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/layout-night/activity_login.xml" value="0.25" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/layout-night/activity_main.xml" value="0.25" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/layout-night/activity_notification.xml" value="0.24583333333333332" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/layout-night/activity_security_private_account.xml" value="0.14166666666666666" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/layout-night/activity_setting.xml" value="0.25" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/layout-night/activity_trash.xml" value="0.25" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/layout-night/item_container_note.xml" value="0.25" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/layout-night/item_notification.xml" value="0.24583333333333332" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/layout-night/layout_bottom_sheet.xml" value="0.25" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/layout-night/layout_delete_notification.xml" value="0.24583333333333332" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/layout-night/layout_delete_trash.xml" value="0.25" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/layout-night/layout_miscellaneous.xml" value="0.25" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/layout/activity_create_note.xml" value="0.4" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/layout/activity_notification.xml" value="0.25" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/layout/activity_security_private_account.xml" value="0.14166666666666666" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/layout/activity_setting.xml" value="0.25" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/layout/activity_trash.xml" value="0.25" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/layout/item_container_note.xml" value="0.25" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/layout/item_notification.xml" value="0.25" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/layout/layout_bottom_sheet.xml" value="0.25" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/layout/layout_delete_notification.xml" value="0.24583333333333332" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/layout/layout_delete_trash.xml" value="0.25" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/layout/layout_miscellaneous.xml" value="0.25" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/menu/context_menu.xml" value="0.25" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/menu/context_menu_trash.xml" value="0.25" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/menu/menu_main.xml" value="0.264" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/menu/menu_notification.xml" value="0.25" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/menu/menu_setting.xml" value="0.25" />
+        <entry key="..\:/New folder (4)/Notes_App/app/src/main/res/menu/menu_trash.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/drawable-night/background_button_google.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/drawable-night/background_button_twitter.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/drawable/background_button_google.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/drawable/background_button_twitter.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/layout-night/activity_login.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/layout-night/activity_security_private_account.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/layout-night/activity_setting.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/layout-night/fingerprint_authentication.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/layout-night/item_notification.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/layout-night/layout_bottom_sheet.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/layout-night/layout_confirm_backup.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/layout-night/layout_confirm_logout.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/layout-night/layout_confirm_restore.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/layout-night/layout_delete_note.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/layout-night/layout_delete_notification.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/layout-night/layout_delete_trash.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/layout-night/layout_miscellaneous.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/layout-night/layout_notification.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/layout-night/layout_security_fingerprint.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/layout/activity_notification.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/layout/activity_security_private_account.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/layout/activity_setting.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/layout/activity_trash.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/layout/fingerprint_authentication.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/layout/item_notification.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/layout/layout_bottom_sheet.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/layout/layout_check_password.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/layout/layout_confirm_backup.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/layout/layout_confirm_logout.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/layout/layout_confirm_restore.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/layout/layout_delete_note.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/layout/layout_delete_notification.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/layout/layout_delete_trash.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/layout/layout_miscellaneous.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/layout/layout_notification.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/layout/layout_security_fingerprint.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/menu/context_menu.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/menu/context_menu_trash.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/menu/menu_main.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/menu/menu_notification.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/menu/menu_setting.xml" value="0.25" />
+        <entry key="..\:/New folder (5)/Notes_App/app/src/main/res/menu/menu_trash.xml" value="0.25" />
+        <entry key="..\:/New folder (6)/Notes_App/app/src/main/res/drawable-night/bottom_sheet_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (6)/Notes_App/app/src/main/res/drawable/ic_done.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (6)/Notes_App/app/src/main/res/drawable/ic_mic.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (6)/Notes_App/app/src/main/res/layout-night/activity_color.xml" value="0.25" />
+        <entry key="..\:/New folder (6)/Notes_App/app/src/main/res/layout-night/activity_create_note.xml" value="0.25" />
+        <entry key="..\:/New folder (6)/Notes_App/app/src/main/res/layout-night/activity_fingerprint.xml" value="0.25" />
+        <entry key="..\:/New folder (6)/Notes_App/app/src/main/res/layout-night/activity_security_private_account.xml" value="0.25" />
+        <entry key="..\:/New folder (6)/Notes_App/app/src/main/res/layout-night/layout_bottom_sheet.xml" value="0.25" />
+        <entry key="..\:/New folder (6)/Notes_App/app/src/main/res/layout/activity_color.xml" value="0.25" />
+        <entry key="..\:/New folder (6)/Notes_App/app/src/main/res/layout/activity_create_note.xml" value="0.25" />
+        <entry key="..\:/New folder (6)/Notes_App/app/src/main/res/layout/activity_fingerprint.xml" value="0.25" />
+        <entry key="..\:/New folder (6)/Notes_App/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/New folder (6)/Notes_App/app/src/main/res/layout/activity_security_private_account.xml" value="0.25" />
+        <entry key="..\:/New folder (6)/Notes_App/app/src/main/res/layout/activity_setting.xml" value="0.25" />
+        <entry key="..\:/New folder (6)/Notes_App/app/src/main/res/layout/layout_bottom_sheet.xml" value="0.25" />
+        <entry key="..\:/New folder (6)/Notes_App/app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/drawable-night/background_add_note.xml" value="0.26197916666666665" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/drawable-night/background_content.xml" value="0.26197916666666665" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/drawable-night/background_dialog.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/drawable-night/background_done_button.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/drawable-night/background_miscellaneous.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/drawable-night/background_note.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/drawable-night/background_note_color_1.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/drawable-night/background_subtitle.xml" value="0.26197916666666665" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/drawable-night/background_title.xml" value="0.26197916666666665" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/drawable-night/bottom_sheet_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/drawable-night/ic_back.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/drawable-night/ic_baseline_create_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/drawable-night/ic_star_off.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/drawable-night/ic_star_on.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/drawable-night/splash_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/drawable/background_add_new.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/drawable/background_add_note.xml" value="0.26197916666666665" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/drawable/background_button_facebook.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/drawable/background_content.xml" value="0.26197916666666665" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/drawable/background_done_button.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/drawable/background_miscellaneous.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/drawable/background_note.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/drawable/background_note_color_1.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/drawable/background_profile.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/drawable/background_subtitle.xml" value="0.26197916666666665" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/drawable/background_tag.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/drawable/background_title.xml" value="0.26197916666666665" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/drawable/bottom_sheet_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/drawable/ic_back.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/drawable/ic_mic.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/drawable/ic_more.xml" value="0.159375" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/drawable/ic_more_menu.xml" value="0.159375" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/drawable/ic_star_off.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/drawable/ic_star_on.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/drawable/splash_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout-night/activity_chart.xml" value="0.10885416666666667" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout-night/activity_color.xml" value="0.25" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout-night/activity_create_note.xml" value="0.264" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout-night/activity_fingerprint.xml" value="0.25" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout-night/activity_login.xml" value="0.25" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout-night/activity_main.xml" value="0.25" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout-night/activity_notification.xml" value="0.25" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout-night/activity_security_private_account.xml" value="0.25" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout-night/activity_setting.xml" value="0.25" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout-night/activity_splash.xml" value="0.25" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout-night/activity_trash.xml" value="0.25" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout-night/fingerprint_authentication.xml" value="0.25" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout-night/item_container_note.xml" value="0.25" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout-night/item_notification.xml" value="0.25" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout-night/layout_add_url.xml" value="0.25" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout-night/layout_bottom_sheet.xml" value="0.25" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout-night/layout_check_password.xml" value="0.25" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout-night/layout_confirm_backup.xml" value="0.25" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout-night/layout_confirm_logout.xml" value="0.25" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout-night/layout_confirm_restore.xml" value="0.25" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout-night/layout_delete_note.xml" value="0.25" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout-night/layout_delete_notification.xml" value="0.25" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout-night/layout_delete_trash.xml" value="0.25" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout-night/layout_miscellaneous.xml" value="0.264" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout-night/layout_notification.xml" value="0.25" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout-night/layout_security_fingerprint.xml" value="0.25" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout/activity_chart.xml" value="0.16" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout/activity_color.xml" value="0.25" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout/activity_create_note.xml" value="0.264" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout/activity_notification.xml" value="0.1" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout/activity_profile.xml" value="0.264" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout/activity_security_private_account.xml" value="0.25" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout/activity_setting.xml" value="0.25" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout/fingerprint_authentication.xml" value="0.25" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout/item_container_note.xml" value="0.25" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout/layout_bottom_sheet.xml" value="0.25" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/layout/layout_miscellaneous.xml" value="0.264" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/menu/context_menu.xml" value="0.25" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/menu/context_menu_trash.xml" value="0.25" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/menu/menu_chart.xml" value="0.10885416666666667" />
+        <entry key="..\:/New folder (7)/Notes_App/app/src/main/res/menu/menu_main.xml" value="0.1" />
+        <entry key="..\:/New folder (8)/Notes_App/app/src/main/res/drawable-night/background_note.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (8)/Notes_App/app/src/main/res/drawable-night/background_note_color_1.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (8)/Notes_App/app/src/main/res/drawable-night/bottom_sheet_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (8)/Notes_App/app/src/main/res/drawable-night/ic_star_on.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (8)/Notes_App/app/src/main/res/drawable/background_tag.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (8)/Notes_App/app/src/main/res/drawable/bottom_sheet_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (8)/Notes_App/app/src/main/res/drawable/ic_star_on.xml" value="0.26614583333333336" />
+        <entry key="..\:/New folder (8)/Notes_App/app/src/main/res/layout-night/activity_setting.xml" value="0.25" />
+        <entry key="..\:/New folder (8)/Notes_App/app/src/main/res/layout-night/activity_trash.xml" value="0.264" />
+        <entry key="..\:/New folder (8)/Notes_App/app/src/main/res/layout-night/item_container_note.xml" value="0.14322916666666666" />
+        <entry key="..\:/New folder (8)/Notes_App/app/src/main/res/layout-night/item_container_trash.xml" value="0.14322916666666666" />
+        <entry key="..\:/New folder (8)/Notes_App/app/src/main/res/layout-night/layout_bottom_sheet.xml" value="0.25" />
+        <entry key="..\:/New folder (8)/Notes_App/app/src/main/res/layout-night/layout_confirm_backup.xml" value="0.25" />
+        <entry key="..\:/New folder (8)/Notes_App/app/src/main/res/layout-night/layout_confirm_backup_override.xml" value="0.25" />
+        <entry key="..\:/New folder (8)/Notes_App/app/src/main/res/layout-night/layout_confirm_restore.xml" value="0.25" />
+        <entry key="..\:/New folder (8)/Notes_App/app/src/main/res/layout-night/layout_miscellaneous.xml" value="0.25" />
+        <entry key="..\:/New folder (8)/Notes_App/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/New folder (8)/Notes_App/app/src/main/res/layout/activity_setting.xml" value="0.25" />
+        <entry key="..\:/New folder (8)/Notes_App/app/src/main/res/layout/item_container_note.xml" value="0.14322916666666666" />
+        <entry key="..\:/New folder (8)/Notes_App/app/src/main/res/layout/item_container_trash.xml" value="0.14322916666666666" />
+        <entry key="..\:/New folder (8)/Notes_App/app/src/main/res/layout/layout_bottom_sheet.xml" value="0.25" />
+        <entry key="..\:/New folder (8)/Notes_App/app/src/main/res/layout/layout_confirm_backup.xml" value="0.25" />
+        <entry key="..\:/New folder (8)/Notes_App/app/src/main/res/layout/layout_confirm_backup_override.xml" value="0.25" />
+        <entry key="..\:/New folder (8)/Notes_App/app/src/main/res/layout/layout_confirm_restore.xml" value="0.25" />
+        <entry key="..\:/New folder (8)/Notes_App/app/src/main/res/menu/menu_main.xml" value="0.25" />
+        <entry key="..\:/New folder (8)/Notes_App/app/src/main/res/menu/menu_notification.xml" value="0.25" />
+        <entry key="..\:/Notes_App/app/src/main/res/layout/activity_create_note.xml" value="0.264" />
+        <entry key="..\:/Notes_App/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Notes_App/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Notes_App/app/src/main/res/layout/activity_setting.xml" value="0.25" />
+        <entry key="..\:/Notes_App/app/src/main/res/layout/item_container_note.xml" value="0.15989583333333332" />
+        <entry key="..\:/Notes_App/app/src/main/res/layout/layout_bottom_sheet.xml" value="0.15989583333333332" />
+        <entry key="..\:/Notes_App/app/src/main/res/layout/layout_miscellaneous.xml" value="0.25" />
+        <entry key="..\:/Notes_App/app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/Notes_App/app/src/main/res/xml/provider_path.xml" value="0.1" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/Notes_App/app/src/main/res/drawable/background_delete.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/Notes_App/app/src/main/res/drawable/background_dialog.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/Notes_App/app/src/main/res/layout/activity_create_note.xml" value="0.14895833333333333" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/Notes_App/app/src/main/res/layout/activity_fingerprint.xml" value="0.14895833333333333" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/Notes_App/app/src/main/res/layout/activity_login.xml" value="0.14895833333333333" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/Notes_App/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/Notes_App/app/src/main/res/layout/activity_security_private_account.xml" value="0.15104166666666666" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/Notes_App/app/src/main/res/layout/activity_setting.xml" value="0.264" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/Notes_App/app/src/main/res/layout/fingerprint_authentication.xml" value="0.2328125" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/Notes_App/app/src/main/res/layout/item_container_note.xml" value="0.152" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/Notes_App/app/src/main/res/layout/layout_bottom_sheet.xml" value="0.264" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/Notes_App/app/src/main/res/layout/layout_confirm_logout.xml" value="0.264" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/Notes_App/app/src/main/res/layout/layout_delete_note.xml" value="0.234375" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/Notes_App/app/src/main/res/layout/layout_notification.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/Notes_App/app/src/main/res/layout/layout_security_fingerprint.xml" value="0.264" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/Notes_App/app/src/main/res/layout/tesst.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/Notes_App/app/src/main/res/menu/context_menu.xml" value="0.14895833333333333" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/Notes_App/app/src/main/res/menu/menu.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/drawable-light/background_add_button.xml" value="0.1" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/drawable-night/ic__right_icon.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/drawable-night/ic_back_btn.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/drawable-night/round_back_secondary_100.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/drawable-night/round_back_secondary_100_nightmode.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/drawable-night/rounded_back_white_10_20.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/drawable-v24/background_note_color_1.xml" value="0.1" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/drawable/background_add_button.xml" value="0.1" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/drawable/background_avatar.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/drawable/background_delete.xml" value="0.1" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/drawable/background_dialog.xml" value="0.128" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/drawable/background_done_button.xml" value="0.1" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/drawable/background_miscellaneous.xml" value="0.1" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/drawable/background_note.xml" value="0.1" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/drawable/background_note_color.xml" value="0.1" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/drawable/background_note_color_1.xml" value="0.2611111111111111" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/drawable/background_note_color_2.xml" value="0.1" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/drawable/background_note_color_3.xml" value="0.1" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/drawable/background_note_color_4.xml" value="0.1" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/drawable/background_note_color_5.xml" value="0.1" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/drawable/background_note_color_6.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/drawable/background_note_color_7.xml" value="0.175" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/drawable/background_quickaction.xml" value="0.2611111111111111" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/drawable/background_search.xml" value="0.140625" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/drawable/background_subtitle_indicator.xml" value="0.1" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/drawable/ic_add.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/drawable/ic_delete.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/drawable/ic_image.xml" value="0.14907407407407408" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/drawable/ic_launcher_background.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/drawable/layout_bottom_sheet.xml" value="0.1" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/drawable/rotate_open_anim.xml" value="0.1" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/drawable/title_background.xml" value="0.1" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/layout/activity_create_note.xml" value="0.264" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/layout/activity_setting.xml" value="0.264" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/layout/item_container_note.xml" value="0.1265625" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/layout/layout_add_url.xml" value="0.264" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/layout/layout_bottom_sheet.xml" value="0.264" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/layout/layout_delete_note.xml" value="0.4" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/layout/layout_miscellaneous.xml" value="0.264" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/layout/scroll_image.xml" value="0.264" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/layout/tesst.xml" value="0.25" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/menu/context_menu.xml" value="0.25" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/Users/klasj/AndroidStudioProjects/Notes_App/app/src/main/res/menu/menu_main.xml" value="0.25" />
+        <entry key="..\:/khanh/Notes_App/app/src/main/res/drawable-night/ic_back_btn.xml" value="0.1" />
+        <entry key="..\:/khanh/Notes_App/app/src/main/res/drawable-night/round_back_secondary_100.xml" value="0.1" />
+        <entry key="..\:/khanh/Notes_App/app/src/main/res/drawable-night/round_back_secondary_100_nightmode.xml" value="0.1" />
+        <entry key="..\:/khanh/Notes_App/app/src/main/res/drawable-night/rounded_back_night_mode.xml" value="0.1" />
+        <entry key="..\:/khanh/Notes_App/app/src/main/res/drawable-night/rounded_back_notifications.xml" value="0.1" />
+        <entry key="..\:/khanh/Notes_App/app/src/main/res/drawable-night/rounded_back_private_account.xml" value="0.1" />
+        <entry key="..\:/khanh/Notes_App/app/src/main/res/drawable-night/rounded_back_security.xml" value="0.1" />
+        <entry key="..\:/khanh/Notes_App/app/src/main/res/drawable-night/rounded_back_white_10_20.xml" value="0.1" />
+        <entry key="..\:/khanh/Notes_App/app/src/main/res/drawable/background_avatar.xml" value="0.18229166666666666" />
+        <entry key="..\:/khanh/Notes_App/app/src/main/res/drawable/bottom_sheet_background.xml" value="0.13796296296296295" />
+        <entry key="..\:/khanh/Notes_App/app/src/main/res/drawable/rounded_back_notifications.xml" value="0.1765625" />
+        <entry key="..\:/khanh/Notes_App/app/src/main/res/drawable/rounded_back_white_10_20.xml" value="0.1" />
+        <entry key="..\:/khanh/Notes_App/app/src/main/res/drawable/title_background.xml" value="0.1" />
+        <entry key="..\:/khanh/Notes_App/app/src/main/res/layout-night/activity_setting.xml" value="0.234375" />
+        <entry key="..\:/khanh/Notes_App/app/src/main/res/layout/activity_main.xml" value="0.12760416666666666" />
+        <entry key="..\:/khanh/Notes_App/app/src/main/res/layout/activity_setting.xml" value="0.16" />
+        <entry key="..\:/khanh/Notes_App/app/src/main/res/layout/layout_bottom_sheet.xml" value="0.264" />
+        <entry key="..\:/khanh/app/Notes_App/app/src/main/res/drawable/title_background.xml" value="0.17083333333333334" />
+        <entry key="..\:/khanh/app/Notes_App/app/src/main/res/layout/activity_main.xml" value="0.2371234207968902" />
+        <entry key="..\:/khanh/app/Notes_App/app/src/main/res/layout/activity_security_private_account.xml" value="0.1" />
+        <entry key="..\:/khanh/app/Notes_App/app/src/main/res/layout/activity_setting.xml" value="0.1" />
+        <entry key="..\:/khanh/app/Notes_App/app/src/main/res/layout/layout_bottom_sheet.xml" value="0.1" />
+        <entry key="..\:/khanh/app/Notes_App/app/src/main/res/menu/context_menu.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.264" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

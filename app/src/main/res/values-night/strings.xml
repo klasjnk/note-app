@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nhật ký</string>
+    <string name="my_notes">My Notes</string>
+    <string name="type_note_here">Type note here...</string>
+    <string name="enter_your_url">Enter your Url</string>
+
+</resources>
